@@ -1,0 +1,20 @@
+{
+  "name": "Yurt Personeli Toplantı ve Görev Takip Sistemi",
+  "short_name": "Yurt Takip",
+  "description": "Yurt personeli gündem, bildirim, toplantı ve görev takip uygulaması",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#eff8ff",
+  "theme_color": "#0b3769",
+  "icons": [
+    {
+      "src": "./icons/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
